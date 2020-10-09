@@ -1,0 +1,11 @@
+C:\Users\Upma\OktaJenkinsCI\obj\MCD\Debug\netcoreapp2.1\OktaJenkinsCI.csprojAssemblyReference.cache
+C:\Users\Upma\OktaJenkinsCI\obj\MCD\Debug\netcoreapp2.1\OktaJenkinsCI.csproj.CoreCompileInputs.cache
+C:\Users\Upma\OktaJenkinsCI\obj\MCD\Debug\netcoreapp2.1\OktaJenkinsCI.RazorAssemblyInfo.cache
+C:\Users\Upma\OktaJenkinsCI\obj\MCD\Debug\netcoreapp2.1\OktaJenkinsCI.RazorAssemblyInfo.cs
+C:\Users\Upma\OktaJenkinsCI\obj\MCD\Debug\netcoreapp2.1\OktaJenkinsCI.AssemblyInfoInputs.cache
+C:\Users\Upma\OktaJenkinsCI\obj\MCD\Debug\netcoreapp2.1\OktaJenkinsCI.AssemblyInfo.cs
+C:\Users\Upma\OktaJenkinsCI\obj\MCD\Debug\netcoreapp2.1\OktaJenkinsCI.TagHelpers.input.cache
+C:\Users\Upma\OktaJenkinsCI\obj\MCD\Debug\netcoreapp2.1\OktaJenkinsCI.TagHelpers.output.cache
+C:\Users\Upma\OktaJenkinsCI\obj\MCD\Debug\netcoreapp2.1\OktaJenkinsCI.RazorCoreGenerate.cache
+C:\Users\Upma\OktaJenkinsCI\obj\MCD\Debug\netcoreapp2.1\OktaJenkinsCI.dll
+C:\Users\Upma\OktaJenkinsCI\obj\MCD\Debug\netcoreapp2.1\OktaJenkinsCI.pdb
