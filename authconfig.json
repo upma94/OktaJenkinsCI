@@ -1,0 +1,7 @@
+{
+	"Okta": {
+		"ClientId": "<your-okta-client-id>",
+		"ClientSecret": "<your-okta-client-secret>",
+		"Issuer": "<your-okta-issuer>"
+	}
+}
